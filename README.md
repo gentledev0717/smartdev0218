@@ -11,10 +11,10 @@
 # 🔥 About Me 🔥
 
 <!-- ### 💻 &nbsp;About Me  -->
-<p align="left">
+
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
 - 🎓 &nbsp; Studying Software Engineering at Brigham Young University Idaho.
-</p>
+
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
