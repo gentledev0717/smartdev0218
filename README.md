@@ -8,9 +8,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
-# 🔥 About Me 🔥
+# 💻 About Me 💻
 </div>
-<!-- ### 💻 &nbsp;About Me  -->
+<!-- ### 🔥 &nbsp;About Me  -->
 
 - ### Passionate Full-stack developer with over 6 years experience in software development with Blockchain and smart contracts.
 - ### Seeking out for new technologies and staying up-to-date firmly on market & industry trends, I have possessed lots of golden skills and know-hows in diverging IT fields.
