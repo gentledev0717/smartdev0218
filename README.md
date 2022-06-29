@@ -12,8 +12,13 @@
 </div>
 <!-- ### 💻 &nbsp;About Me  -->
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
-- 🎓 &nbsp; Studying Software Engineering at Brigham Young University Idaho.
+- &nbsp; Passionate Full-stack developer with over 7 years experience in software development with
+Blockchain and smart contracts.
+- &nbsp; Seeking out for new technologies and staying up-to-date firmly on market & industry trends, I have
+possessed lots of golden skills and know-hows in diverging IT fields.
+- &nbsp; Proficient in various platforms, languages, and embedded systems.
+- &nbsp; Experienced with the latest cutting-edge development tools and procedures.
+- &nbsp; Able to effectively self-manage during independent projects, as well as collaborate in a team setting.
 
 <div style=" font-size: medium; color: #447ff7" align=center>
 <p  align="center">
