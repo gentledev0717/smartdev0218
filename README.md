@@ -62,7 +62,6 @@
 <br>
 
 # 📈 Statistics 📈
-![](https://komarev.com/ghpvc/?username=smartdev0218&color=447ff7&label=Visitor+count)
 
 <p align="center">
   <a href="https://github.com/smartdev0218">
