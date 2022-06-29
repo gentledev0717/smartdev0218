@@ -5,15 +5,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Antonio+Krijan+%F0%9F%91%8B%F0%9F%8F%BB;Full+Stack+and+Blockchain+Developer;I+have+6%2B+years+of+experience+%F0%9F%93%88" alt="Antonio Krijan" width="650" height="55">
 
 <p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
 # 🔥 About Me 🔥
 
 <!-- ### 💻 &nbsp;About Me  -->
-
+<p align="left">
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
 - 🎓 &nbsp; Studying Software Engineering at Brigham Young University Idaho.
+</p>
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
