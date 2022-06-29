@@ -59,8 +59,8 @@
 
 <!--   Top Languages Using -->
 ### 👨‍💻 Top Languages Used*:
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smartdev0218&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=smartdev0218&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smartdev0218&theme=github_dark&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=smartdev0218&theme=github_dark&hide_border=true)
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
