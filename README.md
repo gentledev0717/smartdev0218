@@ -12,7 +12,7 @@
 </div>
 <!-- ### 💻 &nbsp;About Me  -->
 
-- ### Passionate Full-stack developer with over 7 years experience in software development with Blockchain and smart contracts.
+- ### Passionate Full-stack developer with over 6 years experience in software development with Blockchain and smart contracts.
 - ### Seeking out for new technologies and staying up-to-date firmly on market & industry trends, I have possessed lots of golden skills and know-hows in diverging IT fields.
 - ### Proficient in various platforms, languages, and embedded systems.
 - ### Experienced with the latest cutting-edge development tools and procedures.
