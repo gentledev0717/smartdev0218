@@ -14,8 +14,8 @@
   <a href="https://github.com/smartdev0218">
     <img src="https://github-readme-stats.vercel.app/api?username=smartdev0218&show_icons=true&theme=github_dark&hide_border=true" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=smartdev0218&theme=github-dark-blue&hide_border=true" />
-    ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smartdev0218&theme=github_dark&hide_border=true)
-    ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=smartdev0218&theme=github_dark&hide_border=true)
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smartdev0218&theme=github_dark&hide_border=true" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=smartdev0218&theme=github_dark&hide_border=true" />
     <img src="https://activity-graph.herokuapp.com/graph?username=smartdev0218&theme=react-dark" />
   </a>
 </p>
