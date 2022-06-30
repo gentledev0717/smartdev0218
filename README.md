@@ -18,6 +18,13 @@
 - ### Experienced with the latest cutting-edge development tools and procedures.
 - ### Able to effectively self-manage during independent projects, as well as collaborate in a team setting.
 
+# 🔥 Skills 🔥
+
+<p style="padding:10px;">
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
+</p>
+
 <div style=" font-size: medium; color: #447ff7" align=center>
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
